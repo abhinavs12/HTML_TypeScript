@@ -1,0 +1,36 @@
+﻿@media only screen and (min-width:600px){
+    body{
+        background-color:green;
+    }
+
+    .col1{
+    width:33%;
+    display:inline-block;
+}
+
+}
+
+
+@media only screen and (max-width:599px){
+    body{
+        background-color:blue;
+    }
+
+    .col1{
+    width:100%;
+    display:inline-block;
+}
+
+}
+
+ .carousel slide{
+     width: 100px;
+     height: 100px;
+ }  
+    
+
+
+
+
+
+ 
